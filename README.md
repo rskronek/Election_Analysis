@@ -22,3 +22,8 @@ Colorado Board of Elections needs following details about the recent local congr
       Charles Casper Stockham: 23.0% (85,213)
       Diana DeGette: 73.8% (272,892)
       Raymon Anthony Doane: 3.1% (11,606)
+      
+## Summary
+Proposed script 
+1.) provides an easy to read and accurate summary of the election results. 
+2.) Provides greatest turnout by county which would add the commission in allocating appropriate resources, like poll workers, to that county  
