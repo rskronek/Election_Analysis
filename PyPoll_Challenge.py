@@ -76,7 +76,7 @@ with open(file_to_load) as election_data:
     f"-------------------------\n"
     f"Total Votes: {total_votes:,}\n"
     f"-------------------------\n" 
-    f"County Votes:" )
+    f"County Votes:\n" )
     print(elect_summary)
    
     with open(file_to_save, "w") as txt_file:
