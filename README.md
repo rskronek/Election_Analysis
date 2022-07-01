@@ -3,11 +3,11 @@
 ## Project Overview
 Colorado Board of Elections needs following details about the recent local congressional elections.
 
-	•	Total votes 
-	•	List of total votes for each county – total number, percentage
-	•	Largest county turnover
-	•	Total number and percentage of votes each candidate won
-	•	The winner of the election based on popular vote
+   •Total votes 
+   •List of total votes for each county – total number, percentage
+   •Largest county turnover
+   •Total number and percentage of votes each candidate won
+   •The winner of the election based on popular vote
 
 ## Election Audit Results
 
