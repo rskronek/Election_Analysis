@@ -29,7 +29,7 @@ Colorado Board of Elections needs following details about the recent local congr
 
 ## Summary
 	Proposed script 
-		1.) provides an easy to read and accurate summary of the election results. 
-		2.) Provides greatest turnout by county which would add the commission in allocating appropriate resources, like poll workers, to that county
+		1.) If the code is refactored to not have any hard coded references to the counties or to the candidates, then the commission could use the script     			 statewide.
+		2). The header row could be used to identify what columns contain candidate and county values which would provide flexibility so all CSV file do not 			 need the exact same format.
 
 
