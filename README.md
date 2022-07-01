@@ -24,8 +24,8 @@ Colorado Board of Elections needs following details about the recent local congr
 		Raymon Anthony Doane: 3.1% (11,606)  
 
 ## Summary
-	Proposed script 
-		1.) If the code is refactored to not have any hard coded references to the counties or to the candidates, then the commission could use the script     			 statewide.  
-		2). The header row could be used to identify what columns contain candidate and county values which would provide flexibility so all CSV file do not 			 need the exact same format.  
+   Proposed script 
+   *  If the code is refactored to not have any hard coded references to the counties or to the candidates, then the commission could use the script statewide.  
+   * The header row could be used to identify what columns contain candidate and county values which would provide flexibility so all CSV file do not need the exact        same format.  
 
 
