@@ -12,13 +12,15 @@ Colorado Board of Elections needs following details about the recent local congr
 ## Election Audit Results
 
 	•	Total of 369,711 were cast in this congressional election.
-	•	Below are the details of each county with the number of votes and percentage. From which we can derive that Denver has the largest number of votes
+	•	Below are the details of each county with the number of votes and percentage.
+	        From which we can derive that Denver has the largest number of votes
 
 		1.	Jefferson: 10.5% (38,855)
 		2.	Denver: 82.8% (306,055)
 		3.	Arapahoe: 6.7% (24,801)
 
-	•	Below is the list of all the candidates, and their respective number of votes and the percentage of the total votes each candidate received.
+	•	Below is the list of all the candidates, and their respective number of votes and 
+	        the percentage of the total votes each candidate received.
 		It is clear that Diane DeGette won the election with a huge margin.
 
 			Charles Casper Stockham: 23.0% (85,213)
