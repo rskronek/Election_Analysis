@@ -2,6 +2,7 @@
 
 ## Project Overview
 Colorado Board of Elections needs following details about the recent local congressional elections.
+
 	•	Total votes 
 	•	List of total votes for each county – total number, percentage
 	•	Largest county turnover
