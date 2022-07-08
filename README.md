@@ -8,6 +8,7 @@ Colorado Board of Elections needs following details about the recent local congr
    * Largest county turnover  
    * Total number and percentage of votes each candidate won  
    * The winner of the election based on popular vote  
+For this purpose, PyPoll_Challenge.py file was created/used. It is under Election_Analysis folder
 
 ## Election Audit Results
 
