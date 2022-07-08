@@ -8,10 +8,15 @@ Colorado Board of Elections needs following details about the recent local congr
    * Largest county turnover  
    * Total number and percentage of votes each candidate won  
    * The winner of the election based on popular vote  
+   
 For this purpose, PyPoll_Challenge.py file was created/used. It is under Election_Analysis folder
 
 ## Election Audit Results
 
+   Here is the screenshot of the result, when the code is run in editor.
+   ![Chart](./code_result.png)
+   
+   As we can see from the sceenshot,
    * Total of 369,711 were cast in this congressional election.  
    * Below are the details of each county with the number of votes and percentage.From which we can derive that Denver has the largest number of votes  
      1. Jefferson: 10.5% (38,855)  
